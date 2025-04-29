@@ -1,1 +1,11 @@
-flask langchain faiss-cpu sentence-transformers PyPDF2 chromadb openai==0.28 python-dotenv langchain_community tiktoken pypdf
+flask
+langchain
+faiss-cpu
+sentence-transformers
+PyPDF2
+chromadb
+openai==0.28
+python-dotenv
+langchain_community
+tiktoken
+pypdf
